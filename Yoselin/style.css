@@ -1,0 +1,32 @@
+#body {
+	background-color: #AA2EF1;
+	font-family: Algerian;
+}
+
+.wrapper {
+	
+	width: 90%;
+	margin: 100px auto 0;
+	
+}
+
+header {
+	text-align: center;
+	color: #2EB6F1;
+	font-family: Ravie;
+	font-size:28px;
+}
+
+.container {
+	float: left;
+	width: 100%;
+	margin-top: 2rem;
+	font-size:20px
+}
+
+img{
+	width: 60%;
+	height: 30%;
+	margin: auto;
+	display: block;
+}
